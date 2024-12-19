@@ -1,0 +1,58 @@
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.exe
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.deps.json
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.runtimeconfig.json
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram_MarkupCompile.cache
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram_MarkupCompile.lref
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.g.resources
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfoInputs.cache
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfo.cs
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\refint\GraphWinProgram.dll
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.genruntimeconfig.cache
+C:\Users\исп-44\source\repos\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\ref\GraphWinProgram.dll
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.exe
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.deps.json
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.runtimeconfig.json
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram_MarkupCompile.cache
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.g.resources
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfoInputs.cache
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfo.cs
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\refint\GraphWinProgram.dll
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.genruntimeconfig.cache
+C:\Users\исп-44\Desktop\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\ref\GraphWinProgram.dll
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram_MarkupCompile.cache
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.g.resources
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfoInputs.cache
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.AssemblyInfo.cs
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.csproj.CoreCompileInputs.cache
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\refint\GraphWinProgram.dll
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.exe
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.deps.json
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.runtimeconfig.json
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.dll
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\bin\Debug\net8.0-windows\GraphWinProgram.pdb
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\GraphWinProgram.genruntimeconfig.cache
+C:\Users\79300\Desktop\Учебная практика ПМ 02\GraphWinProgram\GraphWinProgram\obj\Debug\net8.0-windows\ref\GraphWinProgram.dll

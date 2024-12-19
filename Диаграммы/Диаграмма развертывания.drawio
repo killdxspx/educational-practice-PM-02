@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-12-19T06:25:15.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="NxvFlQbyNVk9lYmTkRs6" version="22.0.3" type="device">
+  <diagram name="Страница — 1" id="Dh7QaD4OQFaFMlAdhQWX">
+    <mxGraphModel dx="978" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xkeuetgRdyADAk8pHQei-1" value="Рабочая станция пользователя" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="155" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="xkeuetgRdyADAk8pHQei-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-13" value="Модуль управления графика" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="155" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-15" value="Среда выполнения" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="155" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-18" value="Графический процессор" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="800" y="155" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xkeuetgRdyADAk8pHQei-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290.67999999999995" y="227.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xkeuetgRdyADAk8pHQei-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="798.81" y="222.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="205" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-3">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkeuetgRdyADAk8pHQei-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Устройство: ПЭВМ&lt;br&gt;+ ОС: Windows&lt;br&gt;+ Интернет: нет&lt;br&gt;+ Лицензия: нет&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="q_KWY7uPeZ9tIYDB034l-3" vertex="1">
+          <mxGeometry x="5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.component;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-3">
+          <mxGeometry x="95" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="317.5" y="205" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-4">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-7" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.component;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-4">
+          <mxGeometry x="95" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-6" value="+ Обновление данных&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Отрисовка" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-4">
+          <mxGeometry x="5" y="2.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="200" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-9">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-11" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.component;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-9">
+          <mxGeometry x="95" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;+&lt;font style=&quot;font-size: 8px;&quot;&gt; &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;System.Windows.dll&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ System.dll&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-9">
+          <mxGeometry x="5" y="2.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="827" y="200" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-14">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-16" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.component;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-14">
+          <mxGeometry x="95" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q_KWY7uPeZ9tIYDB034l-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;+ Обработка данных&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Обновление&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Выполнение&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q_KWY7uPeZ9tIYDB034l-14">
+          <mxGeometry x="5" y="2.5" width="120" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

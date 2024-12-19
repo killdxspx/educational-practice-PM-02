@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="network.png" />
+    <None Remove="resources\16_9.jpg" />
+    <None Remove="resources\network.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\network.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SplashScreen Include="resources\16_9.jpg" />
+  </ItemGroup>
+
+</Project>

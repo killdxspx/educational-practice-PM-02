@@ -1,0 +1,106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="2">
+  <diagram name="Диаграмма контекста" id="_aiaoEg1XjYjQVdZGQkE">
+    <mxGraphModel dx="810" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q8fOAx_J94Po-jsRUx5c-4" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="357" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q8fOAx_J94Po-jsRUx5c-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0830f7;fontColor=#ffffff;strokeColor=none;" parent="q8fOAx_J94Po-jsRUx5c-4" vertex="1">
+          <mxGeometry x="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8fOAx_J94Po-jsRUx5c-3" value="Пользователь&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(Взаимодействует с программой)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0830f7;fontColor=#ffffff;strokeColor=none;" parent="q8fOAx_J94Po-jsRUx5c-4" vertex="1">
+          <mxGeometry y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inIVsX3KuAq0eF812nEZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q8fOAx_J94Po-jsRUx5c-8" target="inIVsX3KuAq0eF812nEZ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="350" />
+              <mxPoint x="311" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inIVsX3KuAq0eF812nEZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q8fOAx_J94Po-jsRUx5c-8" target="inIVsX3KuAq0eF812nEZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="350" />
+              <mxPoint x="521" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8fOAx_J94Po-jsRUx5c-8" value="Программа&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Построение графиков, отображение осей, очистка данных, старт/стоп&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="357" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8fOAx_J94Po-jsRUx5c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q8fOAx_J94Po-jsRUx5c-3" target="q8fOAx_J94Po-jsRUx5c-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="210" />
+              <mxPoint x="417" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inIVsX3KuAq0eF812nEZ-1" value="Интерфейс&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Отрисовка, отображение&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="251" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inIVsX3KuAq0eF812nEZ-2" value="Системные ресурсы&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Обработка, отрисовка, выполнение&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="461" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g-fYIfm5sNfKw4B_tyPX" name="Диаграмма контейнеров">
+    <mxGraphModel dx="1050" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BEGEzp7TRASaXRxbqivn-1" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="354" y="80" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BEGEzp7TRASaXRxbqivn-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0830f7;fontColor=#ffffff;strokeColor=none;" parent="BEGEzp7TRASaXRxbqivn-1" vertex="1">
+          <mxGeometry x="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEGEzp7TRASaXRxbqivn-3" value="Пользователь&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(Взаимодействует с программой)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0830f7;fontColor=#ffffff;strokeColor=none;" parent="BEGEzp7TRASaXRxbqivn-1" vertex="1">
+          <mxGeometry y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEGEzp7TRASaXRxbqivn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="BEGEzp7TRASaXRxbqivn-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5NoEaWHBhkveD_yjPgKJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="yYAsOv5tghJSoa4dsupM-1" target="SRiXdQjUhCQySa12m2pC-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NoEaWHBhkveD_yjPgKJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="yYAsOv5tghJSoa4dsupM-1" target="SRiXdQjUhCQySa12m2pC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYAsOv5tghJSoa4dsupM-1" value="Программа&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Построение графиков, отображение осей, очистка данных, старт/стоп&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYAsOv5tghJSoa4dsupM-2" value="Системная библ.&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Представляет классы, управляет потоками, реализация&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="234" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYAsOv5tghJSoa4dsupM-3" value="Локальная сист.&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Считывание файлов, доступ к директориям, сохранение данных&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NoEaWHBhkveD_yjPgKJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="SRiXdQjUhCQySa12m2pC-1" target="yYAsOv5tghJSoa4dsupM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRiXdQjUhCQySa12m2pC-1" value="Интерфейс&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Отрисовка, отображение&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="234" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NoEaWHBhkveD_yjPgKJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="SRiXdQjUhCQySa12m2pC-2" target="yYAsOv5tghJSoa4dsupM-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRiXdQjUhCQySa12m2pC-2" value="Системные ресурсы&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Обработка, отрисовка, выполнение&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object c4Name="Программа" c4Type="SystemScopeBoundary" c4Application="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" placeholders="1" id="5NoEaWHBhkveD_yjPgKJ-5">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="220" y="317" width="390" height="261" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
